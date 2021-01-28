@@ -1,1 +1,0 @@
-# FisicaComputacional1
